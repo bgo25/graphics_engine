@@ -1,0 +1,8 @@
+Mmain	main.c	/^int main(void) {$/
+clear_color_buffer	main.c	/^bool clear_color_buffer(uint32_t color)$/
+destroy_window	main.c	/^void destroy_window(void)$/
+initialize_window	main.c	/^bool initialize_window (void)$/
+process_input	main.c	/^void process_input (void)$/
+render	main.c	/^void render (void)$/
+setup	main.c	/^bool setup (void)$/
+update	main.c	/^void update (void)$/
